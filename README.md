@@ -1,5 +1,9 @@
 # AirDND - General notes and planning resources
 
+## The Story
+
+Deep in the Orsraun Mountains far to the east of Candlekeep there lies a mysterious Temple which has been under investigation for over a century. The Lord's Alliance currently holds the claim to it and says they have  figured out its mystery. The Temple can be entered only once every 10 years on the spring solstice by a group of adventureres who collect 5 magical keys. These keys can only be acquired once per year. Each comes from a different dungeon scattered throughout the land that opens for exactly 24 hours. The Alliance has already attempted this quest twice before and those who enter the dungeon are never heard from again. Now, in the interest of the realm they are opening this challenge to the strongest factions of the land and will allow The Harpers, The Order of the Guantlet, And the Emerald Enclave to participate. Together, some of the greatest adventurers in Fae'run will challenge the great megadungeon that is ________
+
 ## Dungeon Masters
 
 ### Confirmed
@@ -35,10 +39,6 @@ We would like to do many small sessions and players will rotate through - the ta
 An epic dnd event is one where multiple tables are playing simultaneously and the decisions of one table can affect another. Players can even interact potentially. So there will be 5 dungeons with a small town/trading post out front. Each Dungeon is fully run by a single DM and the players are rotating. The idea is after a session the dungeon "changes" and the area one group was in mostly seals up so the next group that enters proceeds to a deeper level. After the smaller sessions where players are collecting their keys there will be the EPIC session where all players are inside the same dungeon. This will culminate in a huge boss fight in which all players are fighting the same boss at once. There might also be other oppurtunities to interact directly whether through social or fighting and at the end there will be a big "conflict" between all players - basically everyone wants the final treasure for themselves and it will come down to skill checks, maybe some small battles, etc to see who gets it.
 Idea: The boss is tiamat and each player fights a specific head
 
-## The Story
-
-Deep in the Orsraun Mountains far to the east of Candlekeep there lies a mysterious Temple which has been under investigation for over a century. The Lord's Alliance currently holds the claim to it and says they have  figured out its mystery. The Temple can be entered only once every 10 years on the spring solstice by a group of adventureres who collect 5 magical keys. These keys can only be acquired once per year. Each comes from a different dungeon scattered throughout the land that opens for exactly 24 hours. The Alliance has already attempted this quest twice before and those who enter the dungeon are never heard from again. Now, in the interest of the realm they are opening this challenge to the strongest factions of the land and will allow The Harpers, The Order of the Guantlet, And the Emerald Enclave to participate. Together, some of the greatest adventurers in Fae'run will challenge the great megadungeon that is ________
-
 ## Gritty/Technical Details
 
 ### Sign up and Character Creation
@@ -54,7 +54,7 @@ Each character will get a magic item(or choose from a list), depending on their 
 
 This is just their single starting magic item. players will get a lot of treasure and magic items as they progress through sessions
 
-### The Dungeons
+### The Mini-Dungeons
 
 The 5 mini dungeons are only open for 24 hours once per year. Only 5 people can enter at a time and players are primarily looking for "The Key" of that dungeon. 2hour session = 24 hour gametime so at time the are immediately teleported out regardless of situation. If a team fails to get their key then its still in the dungeon and maybe a following group will get it. Maybe it can be traded or sold to that faction. Example: They key was in some hidden chest, but if it isn't retrieved then the next group might get it as a drop from a monster. They will then have an extra key that they can sell/trade to another group.
 
@@ -64,7 +64,7 @@ Each Dungeon has a Theme, ideas:
 * Tiamat - Red(volcano/fire), white(ice/snow), black(swamp), blue(lightning/storm), green(poison/jungle)
 * Shambhala - Pagoda(asian themed), Grove(feywild), village(vampire castle), Amp(Cave), Living room (water)
 
-### The Final Dungeon
+### The Final "Epic" Dungeon
 
 Assume each faction has all its 5 keys - 5 groups/factions of 5 people can enter the dungeon, but everyone on the faction should be on alert because if someone goes to zero hitpoints they are teleported out and a new person can enter. They will essentially be in a pocket dimension all players are in the same dungeon. All the DMs could keep track of party locations digitally (using like a roll20 map) just of where their groups are in the dungeon and if two groups get close to eachother they can have an encounter with eachother. Eventually The boss fight will start - maybe once a party starts fighting a boss the dungeon shifts so that everyone is forced to go towards the boss. Exploring the dungeon ahead of time will get you items to help you defeat the boss and escape with its treasure.
 
@@ -74,7 +74,7 @@ Some of the "treasures" that might help you escape with the treasuree - Scroll o
 
 #### Example: Tiamat
 
-Each group is fighting one of the heads. Groups can also choose to run over and team up on a head (like if they defeat theirs) but the heads might also team up. Tiamat will have lair actions that affect all players at once. After you defeat a head you can move on to fighting the body. The heads will still be there but weakened. Once the body takes X damage the entire boss dies.
+> Each group is fighting one of the heads. Groups can also choose to run over and team up on a head (like if they defeat theirs) but the heads might also team up. Tiamat will have lair actions that affect all players at once. After you defeat a head you can move on to fighting the body. The heads will still be there but weakened. Once the body takes X damage the entire boss dies.
 
 ### Post-battle
 
