@@ -85,8 +85,8 @@ After defeating the boss it drops the ultimate treasure - ex; Heart of Tiamat. W
 * Characters get their standard class equipment or they can take the gold version and buy their equipment
 * Player groups will always have one bag of holding. They must designate who is carrying it. Can't access it during combat
 * Players will have identify scrolls which show the value of items
-* Game is high reward - players will get lots of magic items and money. 
-* They can buy anything they want from normal PHB tables. TODO: make handouts 
+* Game is high reward - players will get lots of magic items and money.
+* They can buy anything they want from normal PHB tables. TODO: make handouts
 * We wont manage encumberance, ammunition, food, etc. Everyone has torches
 * Players can trade/purchase freely from eachother
 
@@ -96,11 +96,9 @@ After defeating the boss it drops the ultimate treasure - ex; Heart of Tiamat. W
 * Can also buy potions, scrolls, etc, but they can only hold 2 such items on their belt at once
 * There will be a couple expensive items which are singular (whoever buys it first) - we can use a physical token for it.
 * Can sell your magic item to the store for 1/2 value
-* TODO: make handouts 
-
+* TODO: make handouts
 
 ## Other ideas and random things
 
 * Each mini session players are allowed ONE short rest and ONE long rest. use them wisely
 * Generally we can favor small groups of powerful monsters - faster and easier to manage, especially without a map
-
