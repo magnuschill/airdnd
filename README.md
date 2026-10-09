@@ -1,49 +1,38 @@
 # AirDND - General notes and planning resources
 
-
-# Dungeon Masters
-### Confirmed
-1. Tylar
-2. Marben
-3. Liam
-4. Dennis, might have to be virtual
-
-### Maybe
-1. Mike
-2. Luke (Creative focused) 
-3. Jeremy ?
+### Dungeon Masters
+Built as a 4 table experience, but you can scale this pattern up or down. (You will see a mix of 4 and 5 below). Set specific rule set, we are using 2014 5e rules.
 
 ### General Info
-We can use 4 and 5 "things" interchangebly depending on what we want to do - 5 DMs and 5 Dungeons, or 4 DMs and 4 Sessions, etc. Will mostly assume 5 for now, we can downsize to 4
+We want players to rotate through experiencing different dungeon masters between sessions so they can experience different DMs style and dungeons. In 5e there are pre built factions, we will ask players to self-identify(or we assign) to one of the four factions. The factions will rotate between DMs and each session will have 4-5 players. Their faction pool will be larger than 5 so people in the faction will choose who plays each session. So everyone should have a chance to play and those who want to play more or less can do that.
 
-We want people to be able to rotate through using different dungeon masters between sessions so they can experience different DMs style and dungeon. In 5e there are pre built factions, we will ask players to self-identify(or we assign) to one of the four factions. The factions will rotate between DMs and each session will have exactly 5 players. Theie faction pool will be larger than 5 so people in the faction will choose who plays each session so everyone should have a chance to play and those who want to play a lot can also do that.
+Everyone starts at lvl2 so they aren't too squishy. All players in the faction will gain a level each sessions regardless of whether they played it (maybe exception for new players).  Between each mini session will be an in game "year". Players will be able to choose a downtime activity for each year. Players will know everyone who is in their faction or not. They can share information or trade items or whatever they want during the "downtime". But we will emphasize to them that this is a competition so you might not want to help out the other factions too much.
 
-All players in the faction will gain a level each sessions regardless of whether they played it. Everyone starts at lvl2. Between each mini session will be an in game "year". Players will be able to choose a downtime activity for each year, examples: learn a new skill/language/weapon-mastery/feat(maybe 2-3 downtimes ? ), search for a specific magic item. Players will know who is in their faction or not and can share information or trade items or whatever they want during the "downtime". But we will emphasize to them that this is a competition so you might not want to help out the other factions.
-
-TODO: Standard 5e or 2024 rules?
-TODO: Find a good spellbook app and have all the casters using it
+Standard 2014 5e rules, Not 2024
+Spellbook App: 
 
 ### Sessions
-We would like to do many small sessions and players will rotate through - the target will be a 2 hours session. There will be 4 or 5 short sessions then the "epic session". To help achieve this we will make some small modifications to rules and gameplay, but they are minimal. We will encourage the players to be decisive and explore as much as possible quickly - They get two hours to explore the dungeon and then they are teleported out of it and the session ends. So in combat they will also want to be decisive and also avoiding combat is a great way to spend more time hunting for treasure. There will be NO use of maps/grids - everything will be theatre of mind. TODO: lets come up with some standard ways we will handle this in combat. For example instead of using feet for distance we could just say melee, close (~30ft), far (~60ft) and very far(120ft+).
+We would like to do several small sessions - The session will be a 2 hour hard limit(timed). Regardless of what is happening at the end of 120mins they are teleported out. There will be 4 short sessions then the "epic session". To help achieve this we will make some small modifications to rules and gameplay, but they are minimal. We will encourage the players to be decisive and explore as much as possible quickly - They get two hours to explore the dungeon and then they are teleported out of it and the session ends. So in combat they will also want to be decisive and also avoiding combat is a great way to spend more time hunting for treasure. There will be NO use of maps/grids - everything will be theatre of mind. 
 
-### Epic Event
-An epic dnd event is one where multiple tables are playing simultaneously and the decisions of one table can affect another. Players can even interact potentially. So there will be 5 dungeons with a small town/trading post out front. Each Dungeon is fully run by a single DM and the players are rotating. The idea is after a session the dungeon "changes" and the area one group was in mostly seals up so the next group that enters proceeds to a deeper level. After the smaller sessions where players are collecting their keys there will be the EPIC session where all players are inside the same dungeon. This will culminate in a huge boss fight in which all players are fighting the same boss at once. There might also be other oppurtunities to interact directly whether through social or fighting and at the end there will be a big "conflict" between all players - basically everyone wants the final treasure for themselves and it will come down to skill checks, maybe some small battles, etc to see who gets it.
-Idea: The boss is tiamat and each player fights a specific head
+TODO: lets come up with some standard ways we will handle this in combat. For example instead of using feet for distance we could just say melee, close (~30ft), far (~60ft) and very far(120ft+).
+
+### Dungeon Format
+Each DM is responsible for their dungeon, which may not be a "dungeon" at all, its just an adventure setting. Each faction will play your dungeon once then they rotate to a different DM/Dungeon. You could run basically the same dungeon every time, but players may talk so there should be different challenges/puzzles if relevant. Also remember they will increase in level each time. While completing the dungeon shower the players with rewards and items, this is a high power game and they will be able to spend their gold between sessions. The main object in each mini session is to obtain a Key and after collecting all of them they can enter the final dungeon. The key should be pretty easily attainable, but if they fail to obtain it we can either give the extra key to the next group of players or arrange for them to obtain/buy it in another way.
+
+My suggestion: re-use components of the dungeon, but make each session unique. Feel free to let one faction's choices in your dungeon affect the next group.
+
+### Epic Dungeon
+After completing the 4 mini session the players are all in the same final dungeon at the same time. This culminates in an EPIC boss fight where all players participate against the same monster. The monster is considered gargantuan and therefore the players can still fight pieces of it at separate tables. The epic dungeon should also present oppurtunities for the players to interact in other ways - maybe traps that trigger effects on other tables or skill challenges against each other. Avoid direct contact and combat because it will consume too much time.
+
+At some point in the Epic dungeon there is a single objective which only one group can obtain. Example is that the ultimate treasure can only be won by a single faction. This creates competition with skill challenges or however you want to handle this.
 
 
-
-# The Story
+# The Story hook example
 Deep in the Orsraun Mountains far to the east of Candlekeep there lies a mysterious Temple which has been under investigation for over a century. The Lord's Alliance currently holds the claim to it and says they have  figured out its mystery. The Temple can be entered only once every 10 years on the spring solstice by a group of adventureres who collect 5 magical keys. These keys can only be acquired once per year. Each comes from a different dungeon scattered throughout the land that opens for exactly 24 hours. The Alliance has already attempted this quest twice before and those who enter the dungeon are never heard from again. Now, in the interest of the realm they are opening this challenge to the strongest factions of the land and will allow The Harpers, The Order of the Guantlet, And the Emerald Enclave to participate. Together, some of the greatest adventurers in Fae'run will challenge the great megadungeon that is ________
 
 # Sign up and Character Creation
 Soon we will send out a communication to everyone who is attending AirDND and provide them a very brief story synopsis. We will ask that everyone who is interested in playing to please reply ASAP so that we know how many players and also at this time we can ask them to choose their faction (will send out a little handout of factions). If one of the factions seems very overpicked compared to others then we can say there are 2 player groups for that faction (so 5 groups total). Anyone can start making their character immediately if they are comfortable doing so. Everyone will use the POINT BUY system (or standard set), no rolling stats. For players who want any guidance on making their characters or on the game in general we will organize VIRTUAL sessions ahead of time to help players with that.
 
-
-Each character will get a magic item(or choose from a list), depending on their faction. ideas:
-* Lords Alliance - A +1 armor of your choosing
-* The Harpers - Some type of jewelry that provides a minor boon, or random table roll ? 
-* Emerald Enclave - Something stealth/mobility or nature themed - cloak/boots/etc
-* Order of Guantlet - +1 weapon of your choosing
 
 This is just their single starting magic item. players will get a lot of treasure and magic items as they progress through sessions
 
