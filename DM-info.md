@@ -27,22 +27,18 @@ There will be a lot of first-timers or players with only minimal experience. Let
 ### Special Mechanics
 * **Rest** - In every session, a player group can take one short rest and one long rest only. (Maybe just a short rest in the final dungeon?)
     * **Hit Dice** - Since there is only one short rest, just use them all.
-* **Ammunition** - Consider it unlimited. No magical ammunition?
+* **Ammunition** - Consider it unlimited. No magical ammunition.
 * **Encumbrance** - Not tracked. Each group has a bag of holding (see below).
 * **Identifying** - Players are sent in with many identify scrolls, which they can easily use out of combat.
-* **Attunement** - Attuning to an item is instant? Un-attuning requires a short rest. Free between sessions.
+* **Attunement** - Attuning to an item is instant. Un-attuning requires a short rest (prevents juggling). Free between sessions.
     * Don't even bring it up except for experienced players.
 * **Light** - Use this at your discretion, but keep it new-player friendly. Example: "In this area it's dark, so you either need to remove your shield and hold a torch, or your attacks will have disadvantage."
 * **Death** - A second failure triggers removal from the dungeon so they don't have to re-roll a character. In the final dungeon, death triggers that player to swap with someone else from their faction who is outside the dungeon.
 
 ### Equipment and Party Bag of Holding
-The faction group is always sent in with a bag of holding that holds all of their items that are not currently equipped. They must specifically designate who is holding it - this is a risk because it could be stolen or that player might become separated.
+The faction group is always sent in with a bag of holding that holds all of their items that are not currently equipped. They must specifically designate who is holding it - this is a risk because it could be stolen or that player might become separated. It takes an action to remove something from the bag of holding.
 
-Players also have a utility belt that can hold one item for quick use in a fight, such as a potion, scroll, ball bearings, etc. This utility belt can be upgraded at the magic item shop to up to 3 slots.
-
-Players can equip one utility item - ball bearings, climbing gear, etc. - for quick use.
-
-> They start with a single belt slot, but can upgrade later
+Players also have a utility belt that can hold one item for quick use in an encounter, such as a potion, scroll, ball bearings, etc. This utility belt can be upgraded at the magic item shop to up to 3 slots.
 
 ### Potions
 **Flavor:** Potions must be stored in glass or they degrade. You can only equip one on your belt safely at a time. Drinking your own potion is a bonus action. Administering your potion to another player is your action.
@@ -56,7 +52,7 @@ Sessions are 2 hours, strictly. Start on time and end right on time. (Example: N
 
 After the session, players level up. See if any players need direct help from you or if there is someone in their faction who can help them. Players can roll their HP (pretty fun usually) or just take the average - let them reroll 1s once. After the first session, explain to them that there will be one year in-game until the dungeons open again, and they can choose an activity and benefit from it (will provide a handout).
 
-In each session, enough gold should be given to average 1,000–2,000 GP per player. It should be almost a given that they get 1,000 gold, but if they perform well in the dungeon, they get closer to 2,000 GP per player.
+In each session, enough gold should be given to average 1,000–2,000 GP per player. It should be very attainable that they get 1,000 gold, but if they perform well in the dungeon, they get closer to 2,000 GP per player.
 
 ## Between Sessions
 
@@ -70,12 +66,12 @@ In each session, enough gold should be given to average 1,000–2,000 GP per pla
 | Weapon Mastery | Acquire 2024 weapon mastery in a weapon. |
 | Feat Training (Level 4 only) | Instead of increasing ability scores, choose a feat. |
 | Business | 500 + (1d8 × 100) GP |
-| Custom | |
+| Custom | Use your imagination and roll to see the result! |
 
 ### Standard Equipment
-Players can buy anything in the standard equipment list - handouts will be provided. They cannot sell regular items, but later, if they buy +1 armor, they can use their existing armor.
+Players can buy anything in the standard equipment list - handouts will be provided. They cannot sell regular items, but later, if they buy +1 armor, they can use their existing armor to offset the "bring your own armor" price.
 
-Players will self-manage all their own gold and non-magical equipment. We will just trust them to handle that. After a session, gold is split evenly between players by default, but they can do whatever they want after that.
+Players will self-manage all their own gold and non-magical equipment. We will just trust them to handle that. After a session, gold is split evenly between players by default, but they can do whatever they want after that such as pooling, giving, trading.
 
 ### Magical Equipment
 
@@ -88,6 +84,8 @@ Magic items can be sold for 1/2 price to the magic shop, but only items that are
 Some items are unique and will have a token to represent the item. There will be a shopkeeper (Lindsey?) and whoever comes to her first with their gold acquires the item, and then it is removed from the store.
 
 Items marked **downtime** require a player to use their downtime and purchase them; however, they are "unique" at that moment. Therefore, if multiple players pursue the item, they roll off to see who gets it. Your money is only used if you win the roll-off.
+
+> Make sure players understand they have to choose the weapon/armor type when getting a +1 
 
 ## Final Dungeon
 W.I.P.
