@@ -36,47 +36,51 @@ Soon we will send out a communication to everyone who is attending AirDND and pr
 
 This is just their single starting magic item. players will get a lot of treasure and magic items as they progress through sessions
 
+### The Mini-Dungeons
 
-## The Dungeons
 The 5 mini dungeons are only open for 24 hours once per year. Only 5 people can enter at a time and players are primarily looking for "The Key" of that dungeon. 2hour session = 24 hour gametime so at time the are immediately teleported out regardless of situation. If a team fails to get their key then its still in the dungeon and maybe a following group will get it. Maybe it can be traded or sold to that faction. Example: They key was in some hidden chest, but if it isn't retrieved then the next group might get it as a drop from a monster. They will then have an extra key that they can sell/trade to another group.
 
 Each Dungeon has a Theme, ideas:
+
 * Elemental - Fire, Water, Wind, Earth, Spirit/Darkness
 * Tiamat - Red(volcano/fire), white(ice/snow), black(swamp), blue(lightning/storm), green(poison/jungle)
 * Shambhala - Pagoda(asian themed), Grove(feywild), village(vampire castle), Amp(Cave), Living room (water)
 
-## The Final Dungeon
+### The Final "Epic" Dungeon
+
 Assume each faction has all its 5 keys - 5 groups/factions of 5 people can enter the dungeon, but everyone on the faction should be on alert because if someone goes to zero hitpoints they are teleported out and a new person can enter. They will essentially be in a pocket dimension all players are in the same dungeon. All the DMs could keep track of party locations digitally (using like a roll20 map) just of where their groups are in the dungeon and if two groups get close to eachother they can have an encounter with eachother. Eventually The boss fight will start - maybe once a party starts fighting a boss the dungeon shifts so that everyone is forced to go towards the boss. Exploring the dungeon ahead of time will get you items to help you defeat the boss and escape with its treasure.
 
-Some of the "treasures" that might help you escape with the treasuree - Scroll of compelled arm wrestling, Wand of Final Jeopardy, Deck of Ultimate texas hold'm, a "blue turtle shell", An enthralling guitar. Other treasures would be for the final battle - elemental resistance items, super strong healing items, etc.
+Some of the "treasures" that might help you escape with the treasuree - Scroll of compelled arm wrestling, Wand of Final Jeopardy, Deck of Ultimate texas hold'm, a "blue turtle shell", An enthralling guitar. Other treasures would be for the final battle - elemental resistance items, super strong healing items, etc.  
 
+### The Boss Fight
 
-## The Boss Fight
-### Example: Tiamat
-Each group is fighting one of the heads. Groups can also choose to run over and team up on a head (like if they defeat theirs) but the heads might also team up. Tiamat will have lair actions that affect all players at once. After you defeat a head you can move on to fighting the body. The heads will still be there but weakened. Once the body takes X damage the entire boss dies.
+#### Example: Tiamat
+
+> Each group is fighting one of the heads. Groups can also choose to run over and team up on a head (like if they defeat theirs) but the heads might also team up. Tiamat will have lair actions that affect all players at once. After you defeat a head you can move on to fighting the body. The heads will still be there but weakened. Once the body takes X damage the entire boss dies.
 
 ### Post-battle
+
 After defeating the boss it drops the ultimate treasure - ex; Heart of Tiamat. Whoever lands the killing blow is at an advantage - they pick up the item and can try to run out of the dungeon with it. Now there is a huge skill challenge type event where plays compete with eachother to be the one who takes the treasure out of the dungeon. Skill challenge rolls offs, small fights, other physical challenges (ex: arm wrestling, rock paper scission, etc. this could be triggered by magic items they get in the dungeon) Whichever factions leaves the dungeon with it "wins"
 
-# Gear and Buying Things
+### Gear and Buying Things
+
 * Characters get their standard class equipment or they can take the gold version and buy their equipment
 * Player groups will always have one bag of holding. They must designate who is carrying it. Can't access it during combat
 * Players will have identify scrolls which show the value of items
-* Game is high reward - players will get lots of magic items and money. 
-* They can buy anything they want from normal PHB tables. TODO: make handouts 
+* Game is high reward - players will get lots of magic items and money.
+* They can buy anything they want from normal PHB tables. TODO: make handouts
 * We wont manage encumberance, ammunition, food, etc. Everyone has torches
 * Players can trade/purchase freely from eachother
 
 ### Magic Shop
+
 * We will put together a magic shop where they can buy simple magic items 
 * Can also buy potions, scrolls, etc, but they can only hold 2 such items on their belt at once
 * There will be a couple expensive items which are singular (whoever buys it first) - we can use a physical token for it.
 * Can sell your magic item to the store for 1/2 value
-* TODO: make handouts 
+* TODO: make handouts
 
+## Other ideas and random things
 
-
-# Other ideas and random things
 * Each mini session players are allowed ONE short rest and ONE long rest. use them wisely
 * Generally we can favor small groups of powerful monsters - faster and easier to manage, especially without a map
-
